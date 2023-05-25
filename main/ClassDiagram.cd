@@ -1,2 +1,102 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Account">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAACABAAAQAUAAAAAAAACAQABEA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card">
+    <Position X="1.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RABAAAAQAAAAAAAEAAQAAAAAEAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Category">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAQAAAAABAAEAAAAAAEAACAA=</HashCode>
+      <FileName>Category.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAIAAAAAAEAAAEQQAAAAQAAgABAAAgAAQAQAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABIAEAAAECAAAEAAAAAAAAEAIEgAAAAQAoAQAABAA=</HashCode>
+      <FileName>Expense.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinanceSystem">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAMIAAAAAQABAQAAAAAIAEIAAAAAAACAiACBBAAg=</HashCode>
+      <FileName>FinanceSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyStorage">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAAAAEARAIAAAMkABEAAIABAAQAAMADqI=</HashCode>
+      <FileName>MoneyStorage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAEEBAA=</HashCode>
+      <FileName>Report.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reporter">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAQAAAIAAAAMAAgKAAIAAAgAAAA=</HashCode>
+      <FileName>Reporter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAgAAIAAAAAAAAEAgAAAQAAAAAAAAAAAAAiAAAAgQA=</HashCode>
+      <FileName>Time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet">
+    <Position X="4.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAAAEAAAAAAAAECAABAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Wallet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Storage">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CategoryType">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BECAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Category.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OperationType">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>FinanceSystem.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Leelawadee UI" Size="9" />
+</ClassDiagram>

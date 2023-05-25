@@ -20,7 +20,6 @@ enum OperationType
 class FinanceSystem
 {
 	std::vector<Account*> accounts;
-	std::vector<Report> reports;
 public:
 	FinanceSystem() {}
 	FinanceSystem(std::vector<Account*> accounts);
