@@ -2,6 +2,9 @@
 
 Архитектура фин. системы
 
+Пример отчета:
+* [25-5-2023_19-1-25.txt](main/25-5-2023_19-1-25.txt)
+
 Main cpp file:
 - [main.cpp](main/main.cpp)
 
@@ -44,6 +47,12 @@ Other classes:
 
 * [ConsoleTable.h](main/ConsoleTable.h)
 * [ConsoleTable.cpp](main/ConsoleTable.cpp)
+
+<p align="center">
+    <h2>Simple Class Diagram</h2>
+    <p></p>
+    <img src="images/ClassDiagram.png">
+</p>
 
 <p align="center">
     <h2>Main Menu</h2>
